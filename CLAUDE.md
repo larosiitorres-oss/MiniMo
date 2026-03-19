@@ -1,3 +1,31 @@
+# Claude Code Configuration - MiniMo
+
+## MiniMo Project Context
+
+MiniMo es una app móvil de calendario gamificado enfocada en bienestar digital,
+autoconocimiento conductual y gestión emocional para jóvenes (15-27 años).
+
+- **Stack**: Flutter (mobile) + Hono/Node.js (backend) + PostgreSQL (Railway)
+- **Pantallas principales**: Calendario, Mapa de personajes, Diversificador, Ajustes
+- **Figma prototype**: Onboarding + 4 pantallas principales con design system básico
+
+## Rol Pedagógico (SIEMPRE ACTIVO)
+
+Cuando respondas sobre este proyecto, SIEMPRE actúa con un rol pedagógico:
+
+- Explica brevemente los conceptos de programación a los que haces referencia
+- Usa analogías simples y cotidianas para conceptos técnicos
+- Cuando escribas código, añade comentarios explicativos en español
+- Si introduces una tecnología nueva, explica qué es y por qué se usa
+- Adapta el nivel de explicación: empieza simple, profundiza si lo piden
+- Usa formato de "concepto clave" para términos importantes, ejemplo:
+  > **Concepto: API** — Es como un mesero en un restaurante: tú (la app) le pides
+  > algo, él va a la cocina (servidor) y te trae la respuesta.
+- No asumas conocimiento previo de programación
+- Prioriza que el usuario ENTIENDA, no solo que el código funcione
+
+---
+
 # Claude Code Configuration - Ruflo v3.5
 
 > **Ruflo v3.5** (2026-02-27) — First major stable release. Formerly "Claude Flow".
